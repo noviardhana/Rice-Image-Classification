@@ -18,7 +18,7 @@ Pemisahan data dilakukan secara ketat untuk menjaga integritas model dan mencega
 
 
 
-[Image of Convolutional Neural Network architecture diagram]
+![Image of Convolutional Neural Network architecture diagram](images/cnn-architecture.png)
 
 
 ---
